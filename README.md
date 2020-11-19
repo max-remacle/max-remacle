@@ -45,9 +45,9 @@ ________________________________________________________________________________
 
 Please chekout some of my projects that I have worked on below
 * https://github.com/max-remacle/trifriend
-* https://github.com/max-remacle/financy
+* https://github.com/max-remacle/financy  
   http://realfinancy.herokuapp.com/#/
-* https://github.com/max-remacle/max-remacle.github.io
+* https://github.com/max-remacle/max-remacle.github.io  
   https://max-remacle.github.io/
 
 Cheers!
